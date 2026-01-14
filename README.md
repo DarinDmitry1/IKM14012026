@@ -1,7 +1,7 @@
 # Playback Store (Учебный проект по ASP.NET Core Razor Pages)
 
 
-Учебный проект “Playback Store” реализован на ASP.NET Core 7/8 с использованием Razor Pages и Entity Framework Core.  
+Учебный проект “Playback Store” реализован на ASP.NET Core с использованием Razor Pages и Entity Framework Core.  
 
 
 ## Цели проекта
